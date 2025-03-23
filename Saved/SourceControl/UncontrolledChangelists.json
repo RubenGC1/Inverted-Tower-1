@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_arma_R.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Y5/KJ3ET0Y0YT9QQO6SJWTJDV.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/Porra/Rubber.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/Porra/Porra_PhysicsAsset.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/Porra/Porra_Skeleton.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/Porra/Porra.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/ThirdPerson/UI/WBP_Player_Status.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_Character-Status.uasset",
+				"C:/Users/ruben/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/Interfaces/BP_Character-Status.uasset"
+			]
+		}
+	]
+}
