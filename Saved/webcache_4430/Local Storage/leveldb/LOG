@@ -1,3 +1,2 @@
-2025/04/15-20:02:17.611 4d4c Reusing MANIFEST C:/Github/Inverted-Tower/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/04/15-20:02:17.617 4d4c Recovering log #3
-2025/04/15-20:02:17.617 4d4c Reusing old log C:/Github/Inverted-Tower/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/04/25-15:48:16.484 ad8 Creating DB C:/Users/ruben/Downloads/Inverted-Tower/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/04/25-15:48:16.499 ad8 Reusing MANIFEST C:/Users/ruben/Downloads/Inverted-Tower/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
